@@ -3,6 +3,20 @@ import java.util.ArrayList;
 public class Client {
 
 	public static void main(String[] args) {
+		ArrayList<Boolean> list = new ArrayList<Boolean>();
+		//we made an array list containing boolean objects. 
+		boolean[] list2= new boolean[5];
+		system.out.println(list2.length0);
+		system.out.println(list.size());
+		
+		boolean b = list[3];
+		list.get(3);
+	        list2[0]=true; 
+		list.set(0,true);
+		ArrayList<Integer> a = new Arraylist<>();
+		a.add(4):
+		a.add(3);
+		a.remove((Integer3);
 		
 	}
 	
